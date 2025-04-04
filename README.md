@@ -1,3 +1,6 @@
+
+---
+
 <!--Languages and Tools Section-->       
 <h2 align="center">𝕰𝖛𝖔𝖑𝖛𝖎𝖓𝖌 𝕾𝖐𝖎𝖑𝖑𝖘</h2> 
 <picture>
@@ -12,6 +15,9 @@
   <li>Developing applications with React Native, focusing on computer vision.</li>
   <li>Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.</li>
 </ul>
+ <div>
+    <img align="right" width="40%" src="./img/carta.png">
+  </div>
 <br />
 <br />
 <br />
