@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🚀 Bem-vindo ao meu GitHub! 🔥
 
-<!--
-**lucasllcm/lucasllcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./img/bemvindo.png" alt="Bem-vindo ao meu GitHub" width="600">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 O Grimório do Código
+
+<div align="center">
+  <img src="./img/js.png" alt="Grimório do Código" width="500">
+</div>
+
+💡 Aqui você encontrará códigos de programação escritos em diversas linguagens, como:
+- 🐍 Python
+- ⚡ JavaScript
+- 🎨 HTML & CSS
+
+---
+
+<div align="center">
+  <img src="./img/inovacaoltda.png" alt="Inovação Ilimitada" width="600">
+</div>
+
+⚡ **Seja bem-vindo ao meu universo épico de desenvolvimento!**
