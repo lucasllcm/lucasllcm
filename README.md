@@ -18,7 +18,7 @@
 </picture>
 <br />
  <div>
-    <img align="left" width="300px" src="./mago.png">
+    <img align="left" width="40%" src="./mago.png">
   </div>
 <br />
 <br />
