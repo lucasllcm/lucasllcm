@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" width="100%" style="display: block;">
+  <defs>
+    <!-- Gradientes personalizados -->
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#17acb4" />
+      <stop offset="50%" stop-color="#87f2e7" />
+      <stop offset="100%" stop-color="#2c5258" />
+    </linearGradient>
+    
+    <linearGradient id="secondaryGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9ef3ed" />
+      <stop offset="100%" stop-color="#7af9bb" />
+    </linearGradient>
+    
+    <radialGradient id="glowEffect" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#9ef3ed" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#37b3b4" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Filtros especiais -->
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Estilos e animações -->
+    <style>
+      .particle {
+        animation: floatParticle 6s ease-in-out infinite;
+      }
+      .pulse {
+        animation: pulseGlow 3s ease infinite;
+      }
+      .text-shine {
+        animation: textShine 5s ease infinite;
+      }
+      
+      @keyframes epicWave {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+      @keyframes floatParticle {
+        0%, 100% { transform: translate(0, 0); opacity: 0.8; }
+        50% { transform: translate(10px, -15px); opacity: 1; }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.7; filter: drop-shadow(0 0 5px #9ef3ed); }
+        50% { opacity: 1; filter: drop-shadow(0 0 12px rgb(38, 61, 211)); }
+      }
+      @keyframes textShine {
+        0%, 100% { filter: drop-shadow(0 0 5px #9ef3ed); }
+        50% { filter: drop-shadow(0 0 15px #7af9bb); }
+      }
+    </style>
+  </defs>
+  
+  <!-- Fundo gradiente -->
+  <rect width="100%" height="100%" fill="url(#mainGradient)" />
+  
+  <!-- Ondas dinâmicas -->
+  <path class="epic-wave" fill="url(#secondaryGradient)" fill-opacity="0.6" d="M0,160L48,154.7C96,149,192,139,288,128C384,117,480,107,576,112C672,117,768,139,864,154.7C960,171,1056,181,1152,170.7C1248,160,1344,128,1392,112L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+  
+  <path class="epic-wave-2" fill="#2c5258" fill-opacity="0.3" d="M0,96L48,90.7C96,85,192,75,288,80C384,85,480,107,576,117.3C672,128,768,128,864,122.7C960,117,1056,107,1152,101.3C1248,96,1344,96,1392,96L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+  
+  <!-- Partículas flutuantes -->
+  <circle class="particle" cx="100" cy="50" r="3" fill="#7af9bb" style="animation-delay: 0s;" />
+  <circle class="particle" cx="300" cy="30" r="4" fill="#254178" style="animation-delay: 0s;" />
+  <circle class="particle" cx="500" cy="40" r="2.5" fill="#9ef3ed" style="animation-delay: 0s;" />
+  <circle class="particle" cx="700" cy="20" r="3.5" fill="#fafa0a" style="animation-delay: 1.5s;" />
+  <circle class="particle" cx="900" cy="50" r="2" fill="#0a12fa" style="animation-delay: 0.5s;" />
+  <circle class="particle" cx="1100" cy="30" r="3" fill="#fafa0a" style="animation-delay: 2.5s;" />
+  <circle class="particle" cx="1300" cy="40" r="4" fill="#fa0a2a" style="animation-delay: 1.2s;" />
+  
+  <!-- Efeitos de brilho -->
+  <circle cx="200" cy="50" r="40" fill="url(#glowEffect)" opacity="0.6" class="pulse" style="animation-delay: 0.3s;" />
+  <circle cx="1200" cy="30" r="50" fill="url(#glowEffect)" opacity="0.6" class="pulse" style="animation-delay: 0.7s;" />
+  
+  <!-- Texto principal -->
+  <text x="50%" y="120" font-family="'Arial Black', sans-serif" font-size="36" fill="white" text-anchor="middle" class="text-shine" filter="url(#textGlow)" font-weight="bold">
+    WELCOME TO MY PROFILE
+  </text>
+  
+  <!-- Nome no canto esquerdo -->
+  <text x="1250" y="180" font-family="'Arial', sans-serif" font-size="24" fill="#fff" font-weight="bold" class="text-shine" style="animation-duration: 4s;">
+    Lucas Coutinho
+  </text>
+  
+  <!-- Elementos decorativos -->
+  <polygon points="30,80 40,60 50,80" fill="#51747f" class="particle" style="animation-delay: 0.8s;" />
+  <polygon points="1400,70 1410,50 1420,70" fill="#7af9bb" class="particle" style="animation-delay: 1.8s;" />
+</svg>
