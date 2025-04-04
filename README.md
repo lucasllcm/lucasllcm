@@ -16,7 +16,7 @@
   <li>Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.</li>
 </ul>
  <div>
-    <img align="right" width="40%" src="./img/carta.png">
+    <img align="right" width="40%" src="./mago.png">
   </div>
 <br />
 <br />
