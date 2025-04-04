@@ -18,7 +18,3 @@
  <div>
     <img align="right" width="300px" src="./mago.png">
   </div>
-<br />
-<br />
-<br />
-<br />
