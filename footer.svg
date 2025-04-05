@@ -2,9 +2,9 @@
   <defs>
     <!-- Gradientes épicos -->
     <linearGradient id="epicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7af9bb" />
-      <stop offset="50%" stop-color="#17acb4" />
-      <stop offset="100%" stop-color="#2c5258" />
+      <stop offset="10%" stop-color="#3D5C9A" />
+      <stop offset="50%" stop-color="#6EC1FF" />
+      <stop offset="100%" stop-color="#1B2A49" />
     </linearGradient>
     
     <radialGradient id="glowEffect" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -80,22 +80,7 @@
   
   <path class="epic-wave" fill="url(#epicGradient)" d="M0,256L48,261.3C96,267,192,277,288,277.3C384,277,480,267,576,245.3C672,224,768,192,864,192C960,192,1056,224,1152,218.7C1248,213,1344,171,1392,149.3L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
   
-  <!-- Partículas mágicas -->
-  <g>
-    <circle class="particle" cx="200" cy="250" r="4" fill="#f472b6" style="animation-delay: 0s;" />
-    <circle class="particle" cx="400" cy="230" r="5" fill="#60a5fa" style="animation-delay: 1s;" />
-    <circle class="particle" cx="600" cy="270" r="3" fill="#34d399" style="animation-delay: 2s;" />
-    <circle class="particle" cx="800" cy="240" r="4" fill="#f59e0b" style="animation-delay: 3s;" />
-    <circle class="particle" cx="1000" cy="260" r="5" fill="#c026d3" style="animation-delay: 4s;" />
-    <circle class="particle" cx="1200" cy="230" r="3" fill="#10b981" style="animation-delay: 5s;" />
-  </g>
-  
-  <!-- Efeitos de brilho -->
-  <circle cx="300" cy="280" r="50" fill="url(#glowEffect)" opacity="0.5" class="pulse" style="animation-delay: 0.5s;" />
-  <circle cx="1100" cy="290" r="60" fill="url(#glowEffect)" opacity="0.5" class="pulse" style="animation-delay: 1s;" />
-  
-  
   <!-- Elementos decorativos adicionais -->
-  <circle cx="300" cy="280" r="5" fill="#f59e0b" class="spark" style="animation-delay: 0.3s;" />
-  <circle cx="1100" cy="290" r="6" fill="#60a5fa" class="spark" style="animation-delay: 0.7s;" />
+  <circle cx="300" cy="280" r="5" fill="#fff" class="spark" style="animation-delay: 0.3s;" />
+  <circle cx="1100" cy="290" r="3" fill="#fff" class="spark" style="animation-delay: 0.7s;" />
 </svg>
