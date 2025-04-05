@@ -10,9 +10,9 @@
   <li>Developing applications with React Native, focusing on computer vision.</li>
   <li>Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.</li>
 </ul>
-</br>
-</br>
-</br>
+
+---
+
 <div>
   <img align="left" width="40%" src="./pinguim.png">
 </div>
