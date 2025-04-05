@@ -7,14 +7,14 @@
 
 ### 🔭 Current Focus 🚀
 <ul align="left">
-  <li>Developing applications with React Native, focusing on computer vision.</li>
-  <li>Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.</li>
+  🔹Developing applications with React Native, focusing on computer vision.<br>
+  🔹Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.
 </ul>
 
 ---
 
 <div>
-  <img align="left" width="40%" src="./pinguim.png">
+  <img align="left" alt="GIF description" width="40%" src="./pinguim.gif">
 </div>
 <picture>
   <img align="left" width="40%" alt="GIF description" src="./Skills_Animation_Transparent.gif">
