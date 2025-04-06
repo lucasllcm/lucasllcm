@@ -17,7 +17,7 @@
   <img align="left" alt="GIF description" width="40%" src="./pinguim.gif">
 </div>
 <picture>
-  <img align="left" width="40%" alt="GIF description" src="./Skills_Animation_Transparent.gif">
+  <img align="left" width="45%" alt="GIF description" src="./Skills_Animation_Transparent.gif">
 </picture>
    
 ![](footer.svg)
