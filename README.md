@@ -14,13 +14,13 @@
 ---
 
 <div>
-  <img align="left" alt="GIF description" width="30%" src="./pinguins.gif">
+  <img align="left" alt="GIF description" width="25%" src="./pinguins.gif">
 </div>
 <picture>
   <img align="left" width="35%" alt="GIF description" src="./Skills_Animation.gif">
 </picture>
 <div>
-  <img align="left" alt="GIF description" width="30%" src="./pinguins.gif">
+  <img align="left" alt="GIF description" width="25%" src="./pinguins.gif">
 </div>
    
 ![](footer.svg)
