@@ -16,7 +16,7 @@
 <div>
   <img align="left" alt="PNG description" width="25%" src="./Pinguim_Esquerdo.png">
   <picture>
-    <img align="center" width="35%" alt="GIF description" src="./Skills_Animation.gif">
+    <img align="center" width="30%" alt="GIF description" src="./Skills_Animation.gif">
   </picture>
   <img align="right" alt="PNG description" width="25%" src="./Pinguim_Direito.png">
 </div>
