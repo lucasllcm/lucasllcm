@@ -17,11 +17,11 @@
 ---
 
 <div>
-  <img align="left" alt="PNG description" width="25%" src="./Pinguim_Esquerdo.png?v=1">
+  <img align="center" alt="PNG description" width="30%" src="./Pinguim_Esquerdo.png?v=1">
   <picture>
-    <img align="center" width="30%" alt="GIF description" src="./Skills_Animation.gif?v=1">
+    <img align="center" width="39%" alt="GIF description" src="./Skills_Animation.gif?v=1">
   </picture>
-  <img align="right" alt="PNG description" width="25%" src="./Pinguim_Direito.png?v=1">
+  <img align="center" alt="PNG description" width="30%" src="./Pinguim_Direito.png?v=1">
 </div>
    
 ![](footer.svg?v=1)
