@@ -63,7 +63,7 @@
   </text>
   
   <!-- Nome no canto esquerdo -->
-  <text x="1250" y="180" font-family="'Arial', sans-serif" font-size="24" fill="#EAF0FF" font-weight="bold" class="text-shine" style="animation-duration: 4s;">
+  <text x="625" y="170" font-family="'Arial', sans-serif" font-size="24" fill="#EAF0FF" font-weight="bold" class="text-shine" style="animation-duration: 4s;">
     Lucas Coutinho
   </text>
 </svg>
