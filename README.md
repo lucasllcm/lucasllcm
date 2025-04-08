@@ -1,8 +1,7 @@
 ![](header.svg)
 
 ---
-
-<!--Languages and Tools Section-->       
+      
 <h2 align="center">𝕰𝖛𝖔𝖑𝖛𝖎𝖓𝖌 𝕾𝖐𝖎𝖑𝖑𝖘</h2> 
 
 ### 🔭 Current Focus 🚀
@@ -10,6 +9,10 @@
   🔹Developing applications with React Native, focusing on computer vision.<br>
   🔹Exploring concepts of AI, blockchain, science, and philosophy to broaden my technological and critical perspective.
 </ul>
+
+<h2></h2>
+
+> “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke
 
 ---
 
